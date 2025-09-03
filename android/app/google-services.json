@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904760617426",
+    "project_id": "alwasaat-79386",
+    "storage_bucket": "alwasaat-79386.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904760617426:android:46d8bebe5ac4aa69e3800b",
+        "android_client_info": {
+          "package_name": "com.qeema.alwasaat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFt467oF25vUYVely_fjvBD5fhUyq0TAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
