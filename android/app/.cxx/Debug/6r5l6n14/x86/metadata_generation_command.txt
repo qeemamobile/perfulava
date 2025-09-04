@@ -1,0 +1,20 @@
+                        -H/Users/mohamedabdelbaset/FlutterDev/flutter/packages/flutter_tools/gradle/src/main/groovy
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=23
+-DANDROID_PLATFORM=android-23
+-DANDROID_ABI=x86
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DANDROID_NDK=/Users/mohamedabdelbaset/Library/Android/sdk/ndk/25.1.8937393
+-DCMAKE_ANDROID_NDK=/Users/mohamedabdelbaset/Library/Android/sdk/ndk/25.1.8937393
+-DCMAKE_TOOLCHAIN_FILE=/Users/mohamedabdelbaset/Library/Android/sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/mohamedabdelbaset/Library/Android/sdk/cmake/3.22.1/bin/ninja
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Volumes/M2-SSD/FlutterProjects-SSD/goods/build/app/intermediates/cxx/Debug/6r5l6n14/obj/x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Volumes/M2-SSD/FlutterProjects-SSD/goods/build/app/intermediates/cxx/Debug/6r5l6n14/obj/x86
+-DCMAKE_BUILD_TYPE=Debug
+-B/Volumes/M2-SSD/FlutterProjects-SSD/goods/android/app/.cxx/Debug/6r5l6n14/x86
+-GNinja
+-Wno-dev
+--no-warn-unused-cli
+                        Build command args: []
+                        Version: 2

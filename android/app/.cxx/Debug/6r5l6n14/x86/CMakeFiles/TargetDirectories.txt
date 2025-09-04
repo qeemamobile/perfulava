@@ -1,0 +1,2 @@
+/Volumes/M2-SSD/FlutterProjects-SSD/goods/android/app/.cxx/Debug/6r5l6n14/x86/CMakeFiles/edit_cache.dir
+/Volumes/M2-SSD/FlutterProjects-SSD/goods/android/app/.cxx/Debug/6r5l6n14/x86/CMakeFiles/rebuild_cache.dir

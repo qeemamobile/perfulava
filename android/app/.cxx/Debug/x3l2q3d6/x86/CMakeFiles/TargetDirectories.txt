@@ -1,0 +1,2 @@
+G:/flutter projects/alwasaat-foods/android/app/.cxx/Debug/x3l2q3d6/x86/CMakeFiles/edit_cache.dir
+G:/flutter projects/alwasaat-foods/android/app/.cxx/Debug/x3l2q3d6/x86/CMakeFiles/rebuild_cache.dir
