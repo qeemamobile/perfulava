@@ -1,0 +1,21 @@
+﻿# Build artifacts
+build/
+*.dll
+*.so
+*.apk
+.dart_tool/
+
+# Flutter/Dart specific
+.packages
+.metadata
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
